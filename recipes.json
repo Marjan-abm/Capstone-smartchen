@@ -1,0 +1,242 @@
+{
+    "all recipes": [
+        {
+            "id": "55960444",
+            "name": "Turkey Chili",
+            "description": "A delicious dish for game nights, ready in an hour.",
+            "image url": "https://m.ftscrt.com/static/recipe/98a32143-5d58-4845-a09d-329c4db656ff.jpg",
+            "yields": "8",
+            "prep time": "20",
+            "cook time": "40",
+            "meal types": [
+                "Soups",
+                "Main Dishes",
+                "Side Dishes",
+                "Lunch",
+                "Snacks"
+            ],
+            "ingredients": [
+                "1/2 tsp cayenne pepper",
+                "1 1/2 tsps granulated garlic",
+                "4 tsps ground cumin",
+                "5 tbsps tomato paste",
+                "1 raw medium vidalia onion",
+                "3 tbsps extra virgin olive oil",
+                "2 1/4 cups diced tomatoes and green chilies",
+                "28 oz 93% fat-free ground turkey",
+                "3 1/2 cups black beans with olive oil, onion and garlic",
+                "1 large green bell pepper",
+                "1 1/3 cups sweet white corn",
+                "1/2 cup chili powder",
+                "1/2 cup onion powder",
+                "1 cup chopped zucchini"
+            ],
+            "instructions": [
+                "Chop vegetables.",
+                "Saut\u00e9 onion with olive oil in a pot until fragrant.",
+                "Add ground turkey and cook until color turns white while stirring.",
+                "Gradually add vegetables, tomato paste, seasonings, and water (as needed to achieve desired consistency).",
+                "Simmer for 30 minutes over low heat."
+            ]
+        },
+        {
+            "id": "55961380",
+            "name": "Salmon Spring Rolls",
+            "description": "Vietnamese-style, low-calorie dish with a light taste.",
+            "image url": "https://m.ftscrt.com/static/recipe/66449c6a-698e-4720-980b-f975623dadaa.jpg",
+            "yields": "6",
+            "prep time": "45",
+            "cook time": "15",
+            "meal types": [
+                "Snacks",
+                "Lunch",
+                "Appetizers",
+                "Main Dishes"
+            ],
+            "ingredients": [
+                "3 tsps minced ginger",
+                "18 sprigs cilantro",
+                "5 tbsps soy sauce",
+                "2 tbsps teriyaki sauce",
+                "6 spring roll wrappers",
+                "2 oz maifun rice noodles",
+                "2 persian cucumbers",
+                "1/2 oz sweet onions",
+                "254 g salmon"
+            ],
+            "instructions": [
+                "Mix teriyaki sauce, soy sauce and ginger. Slice salmon into even strips or cubes then marinade in fridge for 30 minutes. Cook in a lightly greased skillet over high heat for 3 minutes per side.",
+                "Cook noodles according to package. Wash and slice vegetables.",
+                "Dip rice paper in warm water for 10 to 15 seconds, remove and lay each side on paper towels to blot dry.",
+                "Layer rice noodles, vegetables, and salmon on top of each rice paper. Fold and roll.",
+                "Put on a plate then serve with desired sauce."
+            ]
+        },
+        {
+            "id": "55959387",
+            "name": "Fettuccine Alfredo with Veggies",
+            "description": "Creamy and savory dish with low cholesterol content.",
+            "image url": "https://m.ftscrt.com/static/recipe/4f123e61-8723-4d8c-a1ae-d82183d5a903.jpg",
+            "yields": "2",
+            "prep time": "5",
+            "cook time": "10",
+            "meal types": [
+                "Main Dishes",
+                "Lunch"
+            ],
+            "ingredients": [
+                "3/4 tsp garlic and herb seasoning blend",
+                "2 tsps grated parmesan cheese",
+                "2 oz dry fettuccine pasta",
+                "1 cup pepper and onion blend",
+                "1/4 cup roasted garlic parmesan alfredo sauce",
+                "1 tbsp extra virgin olive oil",
+                "1 cup spinach",
+                "1 cup cherry tomatoes"
+            ],
+            "instructions": [
+                "Cook pasta according to package.",
+                "Heat oil in a pan. Add onion and pepper blend, and sprinkle with garlic and herb seasoning blend.",
+                "Add alfredo sauce and tomatoes. Simmer for a minute.",
+                "Add spinach and put lid on for 30 seconds. Stir.",
+                "Add cooked pasta and sprinkle with parmesan, then serve."
+            ]
+        },
+        {
+            "id": "55903004",
+            "name": "Chicken Patties",
+            "description": "Tasty, cholesterol-free dish for lunch or dinner.",
+            "image url": "https://m.ftscrt.com/static/recipe/b00a478f-5ce2-48e3-bdaf-bf7121253956.jpg",
+            "yields": "10",
+            "prep time": "20",
+            "cook time": "20",
+            "meal types": [
+                "Main Dishes",
+                "Lunch",
+                "Breads & Baked Products"
+            ],
+            "ingredients": [
+                "1/4 tsp black pepper seasoned salt",
+                "1 tsp iodized salt",
+                "1 tbsp less sodium soy sauce",
+                "123 g whole kernel sweet corn",
+                "2 tbsps corn starch",
+                "25 oz boneless skinless chicken breast",
+                "1/2 cup chopped onions",
+                "1 tsp granulated sugar",
+                "1/2 lb baby carrots"
+            ],
+            "instructions": [
+                "Chop vegetables and mince chicken using a food processor.",
+                "Mix all ingredients in a bowl.",
+                "Form slightly flat patties and place on a baking sheet with parchment paper.",
+                "Put in preheated oven and cook for 20 minutes at 370\u00b0F or until golden brown."
+            ]
+        },
+        {
+            "id": "55869741",
+            "name": "Scrambled Eggs",
+            "description": "A quick and delicious breakfast recipe.",
+            "image url": "https://m.ftscrt.com/static/recipe/1aaa111e-792b-45d6-b2dd-a1735ba02873.jpg",
+            "yields": "3",
+            "prep time": "10",
+            "cook time": "10",
+            "meal types": [
+                "Breakfast",
+                "Lunch",
+                "Snacks"
+            ],
+            "ingredients": [
+                "50 ml heavy whipping cream",
+                "100 g mozzarella shredded cheese",
+                "5 large eggs",
+                "1 tbsp butter"
+            ],
+            "instructions": [
+                "Mix eggs, shredded cheese, and whipping cream. Season to taste.",
+                "Melt butter in a skillet and pour egg mixture.",
+                "Cook until firm and ready."
+            ]
+        },
+        {
+            "id": "55720996",
+            "name": "Mushroom Spinach Omelette",
+            "description": "A healthy, low-calorie breakfast in less than 30 minutes.",
+            "image url": "https://m.ftscrt.com/static/recipe/5c2e9bfc-4933-49ac-a417-ed47e6580772.jpg",
+            "yields": "6",
+            "prep time": "10",
+            "cook time": "5",
+            "meal types": [
+                "Breakfast",
+                "Lunch",
+                "Snacks"
+            ],
+            "ingredients": [
+                "2 cups baby spinach",
+                "4 large eggs",
+                "9 oz baby bella mushrooms",
+                "6 large egg whites"
+            ],
+            "instructions": [
+                "Beat  the eggs and egg whites in a bowl. Season as desired.",
+                "Saut\u00e9 mushrooms in a non-stick skillet over medium heat for a minute before adding spinach.",
+                "Pour the egg mixture and cook until firm."
+            ]
+        },
+        {
+            "id": "55593717",
+            "name": "Bagels with Cranberry",
+            "description": "A low-calorie bread using 5 ingredients.",
+            "image url": "https://m.ftscrt.com/static/recipe/2c6fda96-a1f4-49b0-8f20-58908995faa6.jpg",
+            "yields": "4",
+            "prep time": "15",
+            "cook time": "25",
+            "meal types": [
+                "Breads & Baked Products",
+                "Snacks",
+                "Breakfast"
+            ],
+            "ingredients": [
+                "1 tsp stevia",
+                "1 tbsp dried and sweet cranberries",
+                "1/4 cup all purpose flour",
+                "8 oz 0% plain greek yogurt",
+                "1 tsp baking powder (sodium aluminum sulfate, double acting)"
+            ],
+            "instructions": [
+                "Mix the dry ingredients then add yogurt and cranberries.",
+                "Form into equal-sized bagels and place on a baking sheet.",
+                "Bake in preheated oven at 350\u00b0F for 25 minutes."
+            ]
+        },
+        {
+            "id": "55586439",
+            "name": "Hash Brown and Sausage Burrito",
+            "description": "A satisfying, low-sugar dish for breakfast or lunch.",
+            "image url": "https://m.ftscrt.com/static/recipe/a877cf26-7247-4285-af89-ca45e62f6c90.jpg",
+            "yields": "1",
+            "prep time": "10",
+            "cook time": "15",
+            "meal types": [
+                "Breakfast",
+                "Lunch",
+                "Snacks"
+            ],
+            "ingredients": [
+                "1/2 oz shredded cheese",
+                "1 tbsp corn oil",
+                "2/3 cup southern hash browns",
+                "3 sausage links",
+                "1 egg",
+                "1 medium flour tortilla"
+            ],
+            "instructions": [
+                "Heat oil in a pan and fry the hash browns.",
+                "Add sausage and egg. Cook until done.",
+                "Arrange on tortilla then add shredded cheese.",
+                "Roll and wrap. Serve."
+            ]
+        }
+    ],
+    "favorites": []
+}

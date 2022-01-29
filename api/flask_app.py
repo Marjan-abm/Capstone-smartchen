@@ -249,7 +249,7 @@ def post_to_all_recipe(json_file_input=DEFAULT_INPUT):
 
 
 # http://127.0.0.1:5000/api/favorite
-@app.route('/api/favourite', methods=['POST'])
+@app.route('/api/favorite', methods=['POST'])
 def post_to_favourite_recipe(json_file_input=DEFAULT_INPUT):
     """
     Leverage POST requests to ADD recipe to the favourite recipes table.
@@ -428,9 +428,9 @@ def delete_recipe_by_id(id_input, table_type):
                                  NOT_FOUND, is_to_web)
     # delete recipe with id
     if table_type == ALL_RECIPES:
-        mongo_db.all_recipes_tb.delete_one({'id': recipe_id})
+        mongo_db.all_recipes.delete_one({'id': recipe_id})
     if table_type == FAVORITES:
-        mongo_db.favourites_tb.delete_one({'id': recipe_id})
+        mongo_db.favorites.delete_one({'id': recipe_id})
     return proceed_to_output({'DELETE success': f'Recipe with id {recipe_id} is deleted'}, OK,
                              is_to_web)
 

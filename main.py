@@ -27,9 +27,9 @@ def show_menu():
                        '2 = Scrape food recipes by meal type\n'
                        '3 = Scrape one food recipe by starting url\n'
                        '4 = Export existing recipes to json file\n'
-                    #    '5 = Update by json file\n'
-                    #    '6 = Insert by json file\n'
-                    #    '7 = Simulate CRUD requests\n'
+                       '5 = Update by json file\n'
+                       '6 = Insert by json file\n'
+                       '7 = Simulate CRUD requests\n'
                        'q = EXIT\n\n')
         if choice == OPTION_EXIT:
             sys.exit(0)

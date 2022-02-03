@@ -32,14 +32,6 @@ def get_soup(url):
         return None
     return BeautifulSoup(html, 'html.parser')
 
-
-
-
-
-
-    
-
-
 def scrape_many(url, target_number, scrape_type):
     """
     Used to scrape many food recipe pages.

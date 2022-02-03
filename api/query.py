@@ -53,8 +53,8 @@ def query(query_string, mongo_db):
     # process the query in table and return cursor
     query_obj, my_query = res
     if query_obj == ALL_RECIPES_STR:
-        return mongo_db.all_recipes_tb.find(my_query, {'_id': 0})
-    return mongo_db.favourites_tb.find(my_query, {'_id': 0})
+        return mongo_db.all_recipes.find(my_query, {'_id': 0})
+    return mongo_db.favorites.find(my_query, {'_id': 0})
 
 
 def divide_query_string_and_parse(query_string):

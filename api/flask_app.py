@@ -20,7 +20,7 @@ from api.query import query, MALFORMED_QUERY_STRING, OBJECT_NOT_EXIST, OBJECT_NO
 
 
 app = Flask(__name__)
-CORS(app)
+# CORS(app)
 mongo_db = Database()
 
 DEFAULT_INPUT = -1

@@ -24,12 +24,12 @@ def show_menu():
     while True:
         choice = input('\nChoose one of the following options:\n'
                        '1 = Scrape food recipes randomly\n'
-                    #    '2 = Scrape food recipes by meal type\n'
-                    #    '3 = Scrape one food recipe by starting url\n'
-                    #    '4 = Export existing recipes to json file\n'
-                    #    '5 = Update by json file\n'
-                    #    '6 = Insert by json file\n'
-                    #    '7 = Simulate CRUD requests\n'
+                       '2 = Scrape food recipes by meal type\n'
+                       '3 = Scrape one food recipe by starting url\n'
+                       '4 = Export existing recipes to json file\n'
+                       '5 = Update by json file\n'
+                       '6 = Insert by json file\n'
+                       '7 = Simulate CRUD requests\n'
                        'q = EXIT\n\n')
         if choice == OPTION_EXIT:
             sys.exit(0)
@@ -156,12 +156,12 @@ def menu_update_insert_by_json_file(operation):
         if operation == UPDATE:
             choice = input('\nChoose one of the following options:\n'
                            '1 = Update all recipes table\n'
-                           '2 = Update favorite recipes table\n'
+                        #    '2 = Update favorite recipes table\n'
                            'b = GO BACK\n\n')
         if operation == INSERT:
             choice = input('\nChoose one of the following options:\n'
                            '1 = Insert all recipes table\n'
-                           '2 = Insert favorite recipes table\n'
+                        #    '2 = Insert favorite recipes table\n'
                            'b = GO BACK\n\n')
         if choice == OPTION_BACK:
             show_menu()

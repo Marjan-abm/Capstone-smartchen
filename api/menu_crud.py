@@ -46,8 +46,8 @@ def menu_get_api():
     while True:
         option = input("\nChoose GET api from one of the following:\n"
                        "1 = api/food?id={attr_value}\n"
-                       "2 = api/favourite?id={attr_value}\n"
-                       "3 = api/search?q={query_string}\n"
+                    #    "2 = api/favourite?id={attr_value}\n"
+                    #    "3 = api/search?q={query_string}\n"
                        "b = GO BACK\n\n")
         if option == OPTION_BACK:
             menu_simulate_api()
@@ -75,7 +75,7 @@ def menu_put_api():
     while True:
         option = input("\nChoose PUT api from one of the following:\n"
                        "1 = api/food?id={attr_value}\n"
-                       "2 = api/favourite?id={attr_value}\n"
+                    #    "2 = api/favourite?id={attr_value}\n"
                        "b = GO BACK\n\n")
         if option == OPTION_BACK:
             menu_simulate_api()
@@ -102,8 +102,8 @@ def menu_post_api():
     while True:
         option = input("\nChoose POST api from one of the following:\n"
                        "1 = api/food\n"
-                       "2 = api/favorite\n"
-                       "3 = api/scrape?url={attr_value}\n"
+                    #    "2 = api/favorite\n"
+                    #    "3 = api/scrape?url={attr_value}\n"
                        "b = GO BACK\n\n")
         if option == OPTION_BACK:
             menu_simulate_api()
@@ -131,7 +131,7 @@ def menu_delete_api():
     while True:
         option = input("\nChoose DELETE api from one of the following:\n"
                        "1 = api/food?id={attr_value}\n"
-                       "2 = api/favorite?id={attr_value}\n"
+                    #    "2 = api/favorite?id={attr_value}\n"
                        "b = GO BACK\n\n")
         if option == OPTION_BACK:
             menu_simulate_api()
